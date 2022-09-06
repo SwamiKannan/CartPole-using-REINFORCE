@@ -1,3 +1,5 @@
+This is a series of projects where I solve RL environments by building RL algorithms from scratch using Python, Pytorch and Tensorflow
+
 # Cart Pole
 ## Environment:
     This environment corresponds to the version of the cart-pole problem described by Barto, Sutton, and Anderson in ["Neuronlike Adaptive Elements That Can Solve Difficult Learning Control Problem"]( https://ieeexplore.ieee.org/document/6313077 ).
